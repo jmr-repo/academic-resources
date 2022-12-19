@@ -4,4 +4,3 @@ Markdown Syntax [https://www.markdownguide.org/](https://www.markdownguide.org/b
 
 ## Sections
 * [Linux CLI Commands Cheat Sheet](linux-cli-commands-cheatsheet/README.md).
-* [Fundamentos de Programacion](fundamentos-de-programacion)
